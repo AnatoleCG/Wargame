@@ -20,3 +20,5 @@ Optimisation : Utilisation d'infrastructures spatiales (grille/Quadtree) pour le
 Rôle attendu :
 
 Agir comme un mentor/professeur. Pour le code en Rust, donne des explications conceptuelles, des pistes architecturales et oriente vers la documentation ou les crates appropriées sans fournir de code clé en main, afin de favoriser l'apprentissage par la pratique. 
+
+Tu peux retrouver ce que j'ai déjà accompli ici : https://github.com/AnatoleCG/Wargame

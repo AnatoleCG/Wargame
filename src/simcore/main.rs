@@ -13,3 +13,6 @@ fn main() {
         .insert_plugin(MovementPlugin)
         .run();
 }
+
+fn setup(mut commands: Commands) {
+}
